@@ -4,10 +4,12 @@ Ferramentas para gerenciamento de nuvem amazon a partir da linha de comando (Ter
 
 ## Requisitos
 Necessário instalar o cliente de linha de comando aws, instruções de instalação:
-`wget https://bootstrap.pypa.io/get-pip.py
+```
+wget https://bootstrap.pypa.io/get-pip.py
 sudo python get-pip.py
 sudo pip install awscli
-aws configure`
+aws configure
+```
 
 Ou execute o **instala_aws-cli4mac.sh**
 
